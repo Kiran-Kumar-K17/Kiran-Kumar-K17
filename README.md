@@ -37,8 +37,8 @@ Welcome to my GitHub profile!
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)
-- 📨 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/kiran-kumar-984640251/))
+- 📨 Email: [kirankumark1707@gmail.com](mailto:kirankumark1707@gmail.com)
 
 ---
 
