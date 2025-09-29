@@ -142,7 +142,7 @@ I'm a passionate DevOps engineer and Computer Science student who transforms com
 
 #### 🌟 Community & Research
 - 🎓 **AWS Educate Emerging Talent Community Member**
-- 📄 **IEEE Paper Presentation** - Wireless Networks & Cloud Computing
+- 📄 **IEEE Paper Presentation** - Wireless Networks and Cloud: a New Era of Connectivity
 
 <br clear="right"/>
 
