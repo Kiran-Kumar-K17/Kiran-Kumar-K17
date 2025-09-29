@@ -1,46 +1,60 @@
-# 👋 Hi there, I'm Kiran Kumar!  
-Welcome to my GitHub profile!
+# 👋 Hey, I'm Kiran Kumar!  
+
+![DevOps Banner](https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif)  
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me  
 
-🎓 I'm a Computer Science student passionate about building real-world applications.  
-🔐 Currently building a **Secure File Sharing System** using **Proxy Re-Encryption** and **Blockchain**.  
-🚀 Exploring the intersection of **Web Development**, **Cybersecurity**, and **Distributed Systems**.  
-📍 Based in India | Open to remote opportunities & collaborations.
-
----
-
-## 🔧 Tech Stack
-
-- **Languages:** Java, JavaScript, Python, C
-- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js (Express), Firebase, MongoDB
-- **Tools & Platforms:** Git, GitHub, VS Code, Linux, Postman
-- **Other Interests:** Proxy Re-Encryption (Umbral), Blockchain, Cryptography
+🎓 Computer Science student specializing in **Cloud & DevOps**.  
+⚡ Skilled in **AWS, Kubernetes, Terraform, Docker, and CI/CD automation**.  
+🔐 Passionate about **scalable architectures, GitOps, and secure systems**.  
+🌎 Based in India | Open to **DevOps, Cloud & SRE opportunities**.  
 
 ---
 
-## 📈 GitHub Stats
+## 🔧 DevOps & Cloud Tech Stack  
+
+- **Cloud Providers:** AWS ☁️ | Azure ☁️ | Oracle Cloud  
+- **Containers & Orchestration:** Docker 🐳 | Kubernetes ☸️ | Helm  
+- **IaC & Automation:** Terraform 🌍 | Ansible | GitOps (Argo CD, Flux)  
+- **CI/CD Pipelines:** GitHub Actions ⚡ | GitLab CI | Azure DevOps | Jenkins  
+- **Monitoring & Ops:** Prometheus 📊 | Grafana 📈 | ELK Stack  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiran-Kumar-K17&show_icons=true&theme=tokyonight" alt="Kiran's GitHub stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=Kiran-Kumar-K17&theme=tokyonight" alt="GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran-Kumar-K17&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250" alt="Cloud & DevOps GIF" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Stats  
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/kiran-kumar-984640251/))
-- 📨 Email: [kirankumark1707@gmail.com](mailto:kirankumark1707@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiran-Kumar-K17&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Kiran-Kumar-K17&theme=tokyonight" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran-Kumar-K17&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
-I play games for 2 hours daily to recharge my brain and keep my reflexes sharp! 🎮🧠  
+## 🛠 Projects  
+
+- **GitOps Retail Cloud** – Deployed microservices on **AWS EKS** with **Terraform, Argo CD & Helm**.  
+- **CI/CD Voting App** – Automated deployments with **Azure Pipelines → Kubernetes (Argo CD, Docker)**.  
+- **Secure File Sharing System** – Integrated **Proxy Re-Encryption & Blockchain** for data privacy.  
+
+---
+
+## 📫 Connect With Me  
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kiran-kumar-984640251/)  
+- 💻 [GitHub](https://github.com/Kiran-Kumar-K17)  
+- 📨 [Email](mailto:kirankumark1707@gmail.com)  
+
+---
+
+## ⚡ Fun Fact  
+I love automating everything—even my morning coffee ☕ with a Raspberry Pi & cron jobs!  
